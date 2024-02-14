@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\freq_gen" 
+PRINT(".\Listings\freq_gen.m51")
